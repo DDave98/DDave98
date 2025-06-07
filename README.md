@@ -2,25 +2,13 @@
 <h3 align="center">Jsem vývojář se zájmem o open-source, moderní technologie a neustálé zlepšování. Věnuji se vývoji webových aplikací / backend systémů ... a rád se učím nové nástroje a frameworky.
 </h3>
 
-- 🔭 I’m currently working on [aaa](link)
+- 🔭 I’m currently working on [informačním systému pro střední školy]
 
-- 🌱 I’m currently learning **jj**
+- 🌱 I’m currently learning **Next.JS, Docker, ...**
 
-- 👯 I’m looking to collaborate on [no](link)
+- 👯 I’m looking to collaborate on [no]()
 
-- 🤝 I’m looking for help with [no](link)
-
-- 👨‍💻 All of my projects are available at [no](no)
-
-- 📝 I regularly write articles on [no](no)
-
-- 💬 Ask me about **jj**
-
-- 📫 How to reach me **no**
-
-- 📄 Know about my experiences [no](no)
-
-- ⚡ Fun fact **no**
+- 📝 I regularly write articles on [maybe soon]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
