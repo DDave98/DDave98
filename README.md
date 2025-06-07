@@ -2,13 +2,12 @@
 <h3 align="center">Jsem vývojář se zájmem o open-source, moderní technologie a neustálé zlepšování. Věnuji se vývoji webových aplikací / backend systémů ... a rád se učím nové nástroje a frameworky.
 </h3>
 
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddave98&show_icons=true&locale=en&layout=compact" alt="ddave98" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddave98&show_icons=true&locale=en" alt="ddave98" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddave98&show_icons=true&locale=en&layout=compact" alt="ddave98" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddave98&show_icons=true&locale=en" alt="ddave98" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddave98&" alt="ddave98" /></p>
-
-
-### c
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DDave98&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -26,11 +25,6 @@
 <a href="https://codesandbox.com/dafko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dafko" height="30" width="40" /></a>
 <a href="https://fb.com/david_michalica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michalica" height="30" width="40" /></a>
 </p>
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddave98&label=Profile%20views&color=0e75b6&style=flat" alt="ddave98" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddave98" alt="ddave98" /></a> </p>
 
 <br>
 
