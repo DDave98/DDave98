@@ -2,13 +2,11 @@
 <h3 align="center">Jsem vývojář se zájmem o open-source, moderní technologie a neustálé zlepšování. Věnuji se vývoji webových aplikací / backend systémů ... a rád se učím nové nástroje a frameworky.
 </h3>
 
-- 🔭 I’m currently working on [informačním systému pro střední školy]
 
-- 🌱 I’m currently learning **Next.JS, Docker, ...**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddave98&show_icons=true&locale=en&layout=compact" alt="ddave98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddave98&show_icons=true&locale=en" alt="ddave98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddave98&" alt="ddave98" /></p>
 
-- 👯 I’m looking to collaborate on [no]()
-
-- 📝 I regularly write articles on [maybe soon]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,9 +83,11 @@
 
   <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddave98&show_icons=true&locale=en&layout=compact" alt="ddave98" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddave98&show_icons=true&locale=en" alt="ddave98" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddave98&" alt="ddave98" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://coff.ee/michalicadk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/michalicadk" /></a></p><br><br>
