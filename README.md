@@ -19,18 +19,24 @@
 <a href="https://fb.com/david_michalica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michalica" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddave98&label=Profile%20views&color=0e75b6&style=flat" alt="ddave98" /> </p>
+<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddave98&label=Profile%20views&color=0e75b6&style=flat" alt="ddave98" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddave98" alt="ddave98" /></a> </p>
 
+<br>
+
 <h3 align="left">🔧 Technologie, se kterými pracuji:</h3>
+
 - **Jazyky:** JavaScript, TypeScript, Python, [doplnit]
 
-- **Frameworky:** React, Node.js, Express, Next.js, [doplnit]
+- **Frameworky:** React, Node.js, Express, Next.js, ...
  
-- **Databáze:** MongoDB, PostgreSQL, SQLite, [doplnit]
+- **Databáze:** MongoDB, PostgreSQL, SQLite, ...
 
-- **Další:** Git, Docker, Linux, REST API, GraphQL, [doplnit]
+- **Další:** Git, Docker, Linux, REST API, GraphQL, ...
+
+<br>
 
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -76,6 +82,8 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+  <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddave98&show_icons=true&locale=en&layout=compact" alt="ddave98" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddave98&show_icons=true&locale=en" alt="ddave98" /></p>
