@@ -94,9 +94,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DDave98/DDave98/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://coff.ee/michalicadk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/michalicadk" /></a></p><br><br>
