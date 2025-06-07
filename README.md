@@ -12,6 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/dave-michalica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dave-michalica" height="30" width="40" /></a>
+<a href="https://dev.to/dafko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dafko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david michalica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david michalica" height="30" width="40" /></a>
+<a href="https://codesandbox.com/dafko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dafko" height="30" width="40" /></a>
+<a href="https://fb.com/david michalica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michalica" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddave98&label=Profile%20views&color=0e75b6&style=flat" alt="ddave98" /> </p>
@@ -72,3 +77,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddave98&show_icons=true&locale=en&layout=compact" alt="ddave98" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddave98&show_icons=true&locale=en" alt="ddave98" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddave98&" alt="ddave98" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://coff.ee/michalicadk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/michalicadk" /></a></p><br><br>
