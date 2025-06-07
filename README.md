@@ -16,7 +16,6 @@
 ###
 ###
 
-
 # 📊 GitHub Stats:
 Něco málo o mém github profilu...
 
@@ -42,19 +41,6 @@ Něco málo o mém github profilu...
 <br>
 
 <h1 align="left">💻 Tech Stack:</h1>
-
-- **Jazyky:** JavaScript, TypeScript, Python, [doplnit]
-
-- **Frameworky:** React, Node.js, Express, Next.js, ...
- 
-- **Databáze:** MongoDB, PostgreSQL, SQLite, ...
-
-- **Další:** Git, Docker, Linux, REST API, GraphQL, ...
-
-###
-##
-##
-###
 
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
