@@ -13,6 +13,10 @@
   <li>☕ Můžeš mě podpořit na <a href="https://buymeacoffee.com/michalicadk/">buymeacaffee</a> </li>
 </ul>
 
+<br><br><br><br>
+
+#
+#
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dave-michalica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dave-michalica" height="30" width="40" /></a>
@@ -21,11 +25,9 @@
 <a href="https://codesandbox.com/dafko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dafko" height="30" width="40" /></a>
 <a href="https://fb.com/david_michalica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michalica" height="30" width="40" /></a>
 </p>
-
-###
-###
-###
-###
+#
+#
+<br><br><br><br>
 
 # 📊 GitHub Stats:
 Něco málo o mém github profilu...
