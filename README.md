@@ -13,7 +13,7 @@
   <li>☕ Můžeš mě podpořit na <a href="https://buymeacoffee.com/michalicadk/">buymeacaffee</a> </li>
 </ul>
 
-<br><br><br><br>
+<br><br><br>
 
 #
 #
@@ -27,7 +27,8 @@
 </p>
 #
 #
-<br><br><br><br>
+
+<br><br><br>
 
 # 📊 GitHub Stats:
 Něco málo o mém github profilu...
