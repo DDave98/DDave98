@@ -29,6 +29,11 @@
 
 # 📊 GitHub Stats:
 Něco málo o mém github profilu...
+- 📊 Moje GitHub statistiky jsou důkazem toho, že mě programování opravdu baví – od backendu v .NETu až po automatizaci a skriptován
+- 🚀 Aktivně přispívám do vlastních i týmových projektů, většinou v C#/.NET.
+- 🛠 Sleduju čistotu kódu, strukturu a rád si automatizuju opakující se práci.
+- ⚙️ Kódím, commituju, refaktoruju – občas i dokumentuju.
+- 📉 Ne každý commit je výhra, ale každý posouvá dál.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=DDave98&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
