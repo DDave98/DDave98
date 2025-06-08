@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Jsem vývojář se zájmem o open-source, moderní technologie a neustálé zlepšování. Věnuji se vývoji webových aplikací / backend systémů ... a rád se učím nové nástroje a frameworky.
+<h3 align="center">„99 little bugs in the code, take one down, patch it around, 117 bugs in the code…“
 </h3>
+
+<p>💻 Developer | 🧠 Learner | 🔧 Builder of useful things</p>
+<p>Jsem vývojář se zájmem o open-source, moderní technologie a neustálé zlepšování. Věnuji se vývoji webových aplikací / backend systémů ... a rád se učím nové nástroje a frameworky. </p>
+<ul>
+  <li>👨‍💻 Fullstack vývojář | .NET, C#, SQL, React</li>
+  <li>🔬 Rád hledám chytré zkratky a tvořím nástroje, které ušetří čas</li>
+  <li>📦 Mám rád dobře navržené API a čistou architekturu</li>
+  <li>📍 Česká republika</li>  
+  <li>☕ Můžeš mě podpořit na [buymeacoffee](https://buymeacoffee.com/michalicadk)</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
