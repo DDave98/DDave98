@@ -10,7 +10,7 @@
   <li>🔬 Rád hledám chytré zkratky a tvořím nástroje, které ušetří čas</li>
   <li>📦 Mám rád dobře navržené API a čistou architekturu</li>
   <li>📍 Česká republika</li>  
-  <li>☕ Můžeš mě podpořit na [buymeacoffee](https://buymeacoffee.com/michalicadk)</li>
+  <li>☕ Můžeš mě podpořit na <a href="https://buymeacoffee.com/michalicadk/">buymeacaffee</a> </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
