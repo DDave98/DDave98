@@ -57,8 +57,19 @@ Něco málo o mém github profilu...
 <br>
 
 <h1 align="left">💻 Tech Stack:</h1>
+- 🧠 Backend: C#, .NET 6/7, ASP.NET Core, EF Core
+- 🗄️ Databáze: MSSQL, PostgreSQL, SQLite
+- ⚙️ DevOps: Docker, Git, GitHub Actions, Jenkins
+- 🧪 Testování: xUnit, Moq, Postman
+- 🛠️ Ostatní: Swagger, AutoMapper, MediatR, Serilog
 
+### 📚 Učím se
+- Message brokery (RabbitMQ, Kafka)
+- Kubernetes základy
+- Optimalizace výkonnosti v .NETu
+  
 <p align="left"> 
+  <strong>Languages, Frameworks, DevOps & Tools I use or have experience with:</strong><br><br>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -103,10 +114,8 @@ Něco málo o mém github profilu...
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-###
-###
-###
-###
+ <br> <br>
+ <br> <br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/michalicadk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/michalicadk" /></a></p><br><br>
